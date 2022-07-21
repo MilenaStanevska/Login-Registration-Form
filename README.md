@@ -1,4 +1,4 @@
-# login-registration-form
+# Login-Registration-Form
 PHP login and registration form
 
 Requirements:
